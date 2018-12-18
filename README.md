@@ -1,4 +1,4 @@
-# Pykemon
+# PykemonPVP
 ### Generador de equipos de equipos para PVP de PoGo.
 
 La librería consta de cuatro funciones: ```info```, ```info_equipo```, ```buscador1```, ```buscador2```.
