@@ -1,3 +1,4 @@
+# encoding: utf-8
 #Creación de la clase Tipo
 class Tipo:
     nombre = ''
